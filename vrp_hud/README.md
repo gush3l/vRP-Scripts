@@ -9,5 +9,7 @@ Pentru a modifica gradientul de la linia de sub data modificati [linia 67](https
 
 **Preview:** https://streamable.com/2v3q5k
 
+![](https://komarev.com/ghpvc/?username=vrp-scripts-gush3l&label=REPO+VIEWS)
+
 **Copyright © gush3l | 2022 | The use of this software is restricted. To use this product you must contact the copyright holder (me, gush3l) and wait for his approval. Modification and distribution of the product by other persons is not permitted.**
 
